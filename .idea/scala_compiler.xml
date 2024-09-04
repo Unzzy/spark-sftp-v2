@@ -2,5 +2,6 @@
 <project version="4">
   <component name="ScalaCompilerConfiguration">
     <option name="separateProdTestSources" value="false" />
+    <profile name="sbt 1" modules="spark-sftp-v2,spark-sftp-v2-git_2482,untitled" />
   </component>
 </project>

@@ -8,5 +8,4 @@ dist/
 .idea/
 .metals/
 .bloop/
-project/metals.sbt
-.bsp
+.bsp/

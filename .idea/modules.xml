@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spark-sftp-v2.git.iml" filepath="$PROJECT_DIR$/.idea/spark-sftp-v2.git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-sftp-v2.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-sftp-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spark-sftp-v2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spark-sftp-v2-build.iml" />
     </modules>
   </component>
 </project>

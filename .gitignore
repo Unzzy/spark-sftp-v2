@@ -1,0 +1,12 @@
+.DS_Store
+
+# sbt specific
+target/
+dist/
+
+#IDEA specific
+.idea/
+.metals/
+.bloop/
+project/metals.sbt
+.bsp
